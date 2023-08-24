@@ -1,1 +1,1 @@
-# week05
+# This is my week 5 project at Promineo Tech
